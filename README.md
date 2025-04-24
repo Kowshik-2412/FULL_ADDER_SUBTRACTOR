@@ -1,6 +1,8 @@
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
+## reg no : 212224040164
+## name : Kowshik P
 
 **AIM:**
 
